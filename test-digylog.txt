@@ -1,0 +1,4 @@
+Testing EXACT User syntax:
+Status: 200
+Body: {"SFC64A27A":[{"operationDate":"2026-04-16T17:25:11+01:00","date":"2026-04-16T17:25:11+01:00","type":"Changement du statut","location":"Chez vendeur","oldvalue":"-","newvalue":"Non envoy\u00e9e","oldValue":"-","newValue":"Non envoy\u00e9e","newvalue_id":0,"oldvalue_id":0}]}
+
